@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 郑州轻工业大学微控制器课程组
 
-You can use the [editor on GitHub](https://github.com/ericshij/zzulimcu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+可以通过本网站获取课程相关的各种资料和例程.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
